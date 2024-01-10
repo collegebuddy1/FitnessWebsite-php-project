@@ -1,0 +1,43 @@
+/*!
+ * Start Bootstrap - Blog Home HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+ body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-color: black;
+    color: #20c997;
+
+    
+
+}
+.btn {
+    color: black;
+    background-color: #20c997 ;
+    border:  #20c997;
+   
+
+}
+.btn-primary:hover {
+    background-color: white;
+    color:  #20c997;
+    
+}
+.link {
+    color: white;
+}
+.link:hover {
+    color:  #20c997;
+}
+.h4 {
+    color: white;
+
+}
+.h5
+{
+    color: white;
+}
+footer {
+    margin: 50px 0;
+}

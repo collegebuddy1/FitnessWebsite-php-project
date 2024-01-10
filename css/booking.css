@@ -1,0 +1,58 @@
+.ftco-intro .wrap .info {
+    background: white;
+    padding: 30px; }
+      .book1{
+        background-color: #007d65; 
+        /* width: 500px; */
+      }
+      .appointment {
+  padding: 500px !important;
+}
+  @media (min-width: 768px) {
+    .appointment {
+      padding: 7% 12% 7% 5% !important;
+     } }
+  .appointment-form  h2 {
+    color: white;
+    margin-left: 35%; 
+    margin-top: 3%;
+  }
+
+.appointment-form .form-group {
+  position: relative;
+  height: 120%;
+  display: block; 
+  }
+  .appointment-form .form-group .select-wrap, .appointment-form .form-group .input-wrap {
+    position: relative; }
+    .appointment-form .form-group .select-wrap select, .appointment-form .form-group .input-wrap select {
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none; }
+  .appointment-form .form-group .btn {
+    width: 80%;
+    color:#007d65;
+   display: block !important; }
+
+.appointment-form .form-control {
+  border: transparent !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2) !important;
+  width: 180px !important;
+  padding-left: 0;
+  padding-right: 0;
+  background: transparent !important;
+  color:white !important;
+  margin-left: 10px;
+  font-size: 15px;
+  border-radius: 0px;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important; }
+  .appointment-form .form-control::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
+    color:white ;
+  
+  }
+
+  
+.appointment-form textarea.form-control {
+  height: inherit !important; }
